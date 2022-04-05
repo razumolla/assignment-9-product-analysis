@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Razu Molla",
+        "ratting": 4.5,
+        "pic": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/57479471afb8f333dbb1bcae581e05f7-1646259098010/6da52445-33fe-499c-833d-99aaa6cf53c5.jpg",
+        "feedback": "After years of being a happy Apple customer, my latest experience has left me with a new perspective. Electric shocks from the mouse pad, sticky keys, the camera stopped working and less than average picture quality. When I contact Mac support they offer solutions that don't work but require me to close down the computer, which means when I restart I have to contact them again and go through the whole process. Probably 50 hours plus trying to remedy these issues."
+    },
+    {
+        "id": 2,
+        "name": "Jhanker",
+        "ratting": 4.8,
+        "pic": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/57479471afb8f333dbb1bcae581e05f7-1646259098010/6da52445-33fe-499c-833d-99aaa6cf53c5.jpg",
+        "feedback": "One year new Mac-book-Pro and the battery is puffy to the point that the mouse pad doesn't click anymore and the belly makes it wobbly when you type. Called support. They told me to bring my laptop to a 1 hour away Apple store that they would have changed my battery there. So I got an appointment, drove there, waited 20 minutes in line, to be told that they have to keep the computer in store for 3 to 5 days and they would give me a call when ready. Are you kidding me??? How am I supposed to work without it. I got an Apple because they were reliable, but now Apple has become a brand to avoid. Right?"
+    },
+    {
+        "id": 3,
+        "name": "Mir Hossain",
+        "ratting": 4.9,
+        "pic": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/57479471afb8f333dbb1bcae581e05f7-1646259098010/6da52445-33fe-499c-833d-99aaa6cf53c5.jpg",
+        "feedback": "This is a very reliable computer and I have had it since 2012. They only criticism I have is that Apple could make an effort to make it equipment a little less complicated and user friendly. Geeks love their products because they like figuring everything out all the time but if you are like me, it would be nice just to be able to get the computer to do what you want without a lot of research"
+    },
+    {
+        "id": 4,
+        "name": "Sakib Al Hasan",
+        "ratting": 4.8,
+        "pic": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/57479471afb8f333dbb1bcae581e05f7-1646259098010/6da52445-33fe-499c-833d-99aaa6cf53c5.jpg",
+        "feedback": " Wore out my MacBook Pro between school and work; then the OS upgrade made my MS Office software unusable. Since I had to buy new MS Office anyway, I elected to trade in an old iPad mini and my Pro. Trade-in process was easy, and I got a bit off of the Air. Unfortunately there were two core-system problems with the unit, but Tech Support spent HOURS on the phone helping me through it. The unit has functioned flawlessly since then. When I used PCs, they were often back at the manufacturer for repair. Not so the Mac products. I got the Pro when I was going through a Master's program, and have never looked back."
+    },
+    {
+        "id": 5,
+        "name": "Joe Baiden",
+        "ratting": 4.9,
+        "pic": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/57479471afb8f333dbb1bcae581e05f7-1646259098010/6da52445-33fe-499c-833d-99aaa6cf53c5.jpg",
+        "feedback": "The Mac Mini is awesome! Very small square tower that fits on my desk and takes up very little space. I used an old Dell monitor which works great. I use a Logitech wireless solar keyboard and a Apple Magic Mouse. Updates work flawlessly. Love this Mac mini!! "
+    },
+    {
+        "id": 6,
+        "name": "Putin Munsi",
+        "ratting": 4.1,
+        "pic": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/57479471afb8f333dbb1bcae581e05f7-1646259098010/6da52445-33fe-499c-833d-99aaa6cf53c5.jpg",
+        "feedback": "I have had my MacBook for 5 years now. I am totally satisfied with my laptop. The Apple technical support has been the greatest from being locked out after changing my password and called Apple. The young lady that helped me was so helpful to me. I only go to technical support when I need them. I must say purchasing my MacBook was the best investment for me. "
+    }
+]
