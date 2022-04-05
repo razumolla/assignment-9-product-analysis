@@ -1,9 +1,12 @@
 import React from 'react';
+import MyBarChart from '../MyBarChart/MyBarChart';
+import MyLineChart from '../MyLineChart/MyLineChart';
 
 const Dashboard = () => {
     return (
         <div>
-            <h3>dashboard</h3>
+            <MyLineChart> </MyLineChart>
+            <MyBarChart> </MyBarChart>
         </div>
     );
 };
