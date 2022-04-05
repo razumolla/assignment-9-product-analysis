@@ -1,6 +1,6 @@
 # TECH BOSS - Mac Studio
 
-This is live site project link - [MacBook Pro](https://tech-boos-macbook-pro.netlify.app/dashboard).
+This is live site project link - [MacBook Pro](https://tech-boos-macbook-pro.netlify.app/).
 
 ## Latest MacBook Pro Description:
 
