@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# TECH BOSS - Mac Studio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is live site project link - [MacBook Pro](https://tech-boos-macbook-pro.netlify.app/dashboard).
 
-## Available Scripts
+## Latest MacBook Pro Description:
 
-In the project directory, you can run:
+Fast of all I create a react project. then install react router and rechart. then i setup my project by crete components. Then I install Tailwind css. Then I create header file and setup React router . Then setup Custom active Link. Then I work for home page and create json file for customer review. Three customer review problem solved by Using Slice method. Then I Create Dashboard using rechart. And then I answer the question in Blogs section. Step by Step push data in github. Finally this project upload netlify site and Edit Readme file.
 
 ### `npm start`
 
