@@ -31,7 +31,6 @@ const Home = () => {
                     {
                         reviews.slice(0, 3).map(review => <HomeReview key={review.id} review={review}> </HomeReview>)
                     }
-
                 </div>
                 <div className='grid justify-items-center'>
                     <Link to="/reviews">
