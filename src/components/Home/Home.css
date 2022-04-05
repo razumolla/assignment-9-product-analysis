@@ -1,0 +1,8 @@
+.home-container{
+    display: flex;
+    padding: 50px 80px;
+}
+.img-laptop img{
+    height: 450px;
+    width: 1000px;
+}
